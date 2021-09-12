@@ -1,0 +1,2 @@
+# Collision-avoidance-system
+The solution utilizes smart sensing systems such as radar, wheel speed, yaw rate and  ultrasonic detection to enhance situational awareness and alert equipment operators to the  presence of any obstacle within the range. The sensor has a programmable detection area  and can be installed on any vehicle. Also, the system can be programmed to detect  anything from 3-30m away, this is configured dependent on the vehicle it is being installed on. 
